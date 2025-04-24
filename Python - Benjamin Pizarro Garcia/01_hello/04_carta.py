@@ -1,0 +1,18 @@
+# Benjamin Pizarro Garcia 16-04-2025
+
+print("_____________________________________________________________________")
+print("|                                                                   |")
+print("|                             San Ramon, 16 de marzo de 2025        |")
+print("|     Querido Benjamin:                                             |")
+print("|                                                                   |")
+print("|     Te escribo desde el pasado para recordarte como estuvistes    |")
+print("|     a principios de año.                                          |")
+print("|                                                                   |")
+print("|     Estas con unas ambiciones muy grandes, las cuales si no       |")
+print("|     manejas bien te pueden llegar a hacer mal, espero que este    |")
+print("|     año sea increible para ti, tanto en corazon como en alma.     |")
+print("|     Te deseo lo mejor de lo mejor <3.                             |")
+print("|                                                                   |")
+print("|     PD: Trata de manejar lo mayor posible el estres, porque       |")
+print("|     este año se te viene horriblemente pesado.                    |")
+print("_____________________________________________________________________")
